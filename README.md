@@ -1,2 +1,2 @@
 # Alarm-Clock
-Alarm Clock By Charan B
+Alarm Clock By Mayuresh Devadkar using Html,CSS,JS.
